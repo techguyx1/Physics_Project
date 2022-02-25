@@ -1,4 +1,4 @@
-// Coded by Milica G.
+
 
 // This line imports the stepper motor library 
 #include <Stepper.h>
